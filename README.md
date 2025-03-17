@@ -180,7 +180,7 @@ For local development you'll need
 ### Clone Repository
 
 ```bash
-git clone https://github.com/alankrantas/svelteapp-typescript-go.git
+git clone https://github.com/leandrodev1221/svelteapp-typescript-go.git
 cd svelteapp-typescript-go
 npm i -g yarn@latest
 yarn setup-full
