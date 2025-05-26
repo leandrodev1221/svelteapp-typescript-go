@@ -1,11 +1,12 @@
 module main
 
-go 1.23
+go 1.23.0
+
 toolchain go1.24.1
 
 require (
 	github.com/gin-contrib/static v1.1.3
-	github.com/gin-gonic/gin v1.10.0
+	github.com/gin-gonic/gin v1.10.1
 	github.com/mattn/go-sqlite3 v1.14.27
 )
 
