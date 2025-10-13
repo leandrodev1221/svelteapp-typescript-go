@@ -729,10 +729,10 @@ strtok3@^7.0.0:
     "@tokenizer/token" "^0.3.0"
     peek-readable "^5.1.3"
 
-svelte-check@^4.1.6:
-  version "4.1.6"
-  resolved "https://registry.yarnpkg.com/svelte-check/-/svelte-check-4.1.6.tgz#ccb612556678d7770a62c2ad6d4bd49a647afb92"
-  integrity sha512-P7w/6tdSfk3zEVvfsgrp3h3DFC75jCdZjTQvgGJtjPORs1n7/v2VMPIoty3PWv7jnfEm3x0G/p9wH4pecTb0Wg==
+svelte-check@^4.3.3:
+  version "4.3.3"
+  resolved "https://registry.yarnpkg.com/svelte-check/-/svelte-check-4.3.3.tgz#64338a3da6be3f07967ce3c27a2566c136cb5d37"
+  integrity sha512-RYP0bEwenDXzfv0P1sKAwjZSlaRyqBn0Fz1TVni58lqyEiqgwztTpmodJrGzP6ZT2aHl4MbTvWP6gbmQ3FOnBg==
   dependencies:
     "@jridgewell/trace-mapping" "^0.3.25"
     chokidar "^4.0.1"
